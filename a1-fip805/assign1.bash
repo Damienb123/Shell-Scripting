@@ -1,5 +1,6 @@
 while true; do
 	clear
+ #present clear understanding for the use of specific actions
 	echo "Enter one of the following actions or press CTRL-D to exit."
 	echo "C - create a new course record"
 	echo "R - read an existing course record"
