@@ -1,5 +1,5 @@
 #!/bin/bash
-
+#get input from the following actions avaliable
 read -p "Enter department code (2-3 characters): " dept_code
 read -p "Enter department name: " dept_name
 read -p "Enter course number (4 digits): " course_num
